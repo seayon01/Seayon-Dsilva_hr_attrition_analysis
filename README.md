@@ -47,7 +47,7 @@ hr_analytics_project/
 ### Installation
 ```bash
 # Clone repository
-git clone https://github.com/YOUR-USERNAME/hr-analytics-employee-retention.git
+git clone https://github.com/seayon01/Seayon-Dsilva_hr_attrition_analysis.git
 
 # Install dependencies
 pip install -r requirements.txt
@@ -124,12 +124,12 @@ jupyter notebook 03_python_analysis/advanced_hr_analytics.ipynb
 
 ## Author
 
-**[Your Name]**  
+**Seayon Dsilva**  
 Data Analyst | Business Intelligence Specialist
 
-- LinkedIn: [Your Profile]
-- Email: your.email@example.com
-- Portfolio: [Your Website]
+- LinkedIn: https://www.linkedin.com/in/seayon01/
+- Email: seayon01@gmail.com
+
 
 ---
 
@@ -141,4 +141,4 @@ MIT License - Free to use for learning purposes
 
 **If you found this helpful, please star the repository!**
 
-*Last Updated: January 2024*
+*Last Updated: January 2026*
